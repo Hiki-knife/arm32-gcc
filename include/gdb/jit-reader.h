@@ -20,7 +20,7 @@
 #ifndef GDB_JIT_READER_H
 #define GDB_JIT_READER_H
 
-#ifdef __cplusplus
+#ifdef __cplusplusftrt
 extern "C" {
 #endif
 
